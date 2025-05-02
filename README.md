@@ -34,12 +34,18 @@
 
 
 ---
-
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sirdoxa&show_icons=true&theme=radical" width="450" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sirdoxa&theme=radical" width="450" />
+<p align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sirdoxa&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=tokyonight" width="450" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sirdoxa&theme=tokyonight" width="450" />
+</p>
+
+
+</p>
+
 </p>
 
 ---
