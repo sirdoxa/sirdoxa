@@ -13,9 +13,9 @@
 
 
 
-- 🧠 I’m currently learning **Python** and soon diving into **Rust**
-- 🎯 My goal is to become a skilled **Blockchain Developer**
-- ⏳ Currently exploring: Terminal, GitHub, and some times Ubuntu
+- 🧠 I’m currently learning **Python** and soon diving into **Rust**.
+- 🎯 My goal is to become a skilled **Blockchain Developer**.
+- ⏳ Currently exploring: Terminal, GitHub, and some times Ubuntu.
 
 
 ---
@@ -46,16 +46,17 @@
 
 
 <p align="center">
-  <a href="https://linktr.ee/sirdoxa" target="_blank">
+  <a href="https://linktr.ee/sirdoxa" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Linktree-000000?style=for-the-badge&logo=linktree&logoColor=white&labelColor=000000" alt="Linktree" style="border-radius: 15px; margin-right: 15px;"/>
   </a>
-  <a href="https://x.com/realnbvi" target="_blank">
+  <a href="https://x.com/realnbvi" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" alt="X" style="border-radius: 15px; margin-right: 15px;"/>
   </a>
-  <a href="https://t.me/sirdoxa" target="_blank">
+  <a href="https://t.me/sirdoxa" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000" alt="Telegram" style="border-radius: 15px;"/>
   </a>
 </p>
+
 
 
 
