@@ -13,7 +13,7 @@
 
 
 
-- 🧠 I’m currently learning **Python** and soon diving into **Rust**.
+- 🧠 I’m currently learning **Python** and **Vyper**.
 - 🎯 My goal is to become a skilled **Blockchain Developer**.
 - ⏳ Currently exploring: Terminal, GitHub, and some times Ubuntu.
 
