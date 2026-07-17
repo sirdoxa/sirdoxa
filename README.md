@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Mahdi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <em>Python Learner | Wants to be a blockchain dev</em>
+  <em>Python 🐍 | Wants to be a blockchain dev</em>
 </p>
 
 
