@@ -1,4 +1,4 @@
-# Hey, I'm Mahdi 👋
+# Hey, I'm Mahdi
 
 ### Backend Developer | Python Enthusiast | Blockchain Explorer
 
@@ -40,7 +40,7 @@ I enjoy understanding how things work behind the scenes — from server-side arc
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**Blockchain & Smart Contracts — Learning**
+**Blockchain & Smart Contracts**
 
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Vyper](https://img.shields.io/badge/Vyper-314159?style=for-the-badge&logo=ethereum&logoColor=white)
