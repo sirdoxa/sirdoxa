@@ -87,9 +87,11 @@ I enjoy understanding how things work behind the scenes — from server-side arc
 ### 🌐 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sirdoxa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehdi-nabavi-1bb521439)
 [![Linktree](https://img.shields.io/badge/Linktree-121212?style=for-the-badge&logo=linktree&logoColor=43E55E)](https://linktr.ee/sirdoxa)
 [![X](https://img.shields.io/badge/X-121212?style=for-the-badge&logo=x&logoColor=white)](https://x.com/realnbvi)
 [![Telegram](https://img.shields.io/badge/Telegram-121212?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/sirdoxa)
+
 
 ---
 
