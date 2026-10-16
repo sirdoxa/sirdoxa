@@ -1,6 +1,6 @@
 # Hey, I'm Mahdi
 
-### Backend Developer | Python Enthusiast | Blockchain Explorer
+### Backend Developer | Blockchain Explorer
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=58A6FF&width=650&lines=Backend+Engineering+%F0%9F%9A%80;Python+%7C+Django+%7C+REST+APIs;Blockchain+%26+Smart+Contracts;Exploring+Vyper+and+the+EVM;Build.+Learn.+Improve.+Repeat.)](https://git.io/typing-svg)
 
