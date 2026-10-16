@@ -14,7 +14,7 @@ I enjoy understanding how things work behind the scenes — from server-side arc
 
 ### 🧑‍💻 About Me
 
-- 🐍 Building my backend development skills with **Python & Django**
+- 🐍 Building my backend development skills with **Python , Django and FastAPI**
 - ⚙️ Interested in **REST APIs, System Design & Backend Architecture**
 - 🗄️ Working with databases and server-side technologies
 - ⛓️ Exploring **Blockchain Development & Ethereum**
